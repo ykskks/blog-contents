@@ -1,5 +1,3 @@
-# venvの仮想環境をactivateしてもPythonのバージョンが変わらない問題
-
 ## 環境
 
 - macOS
